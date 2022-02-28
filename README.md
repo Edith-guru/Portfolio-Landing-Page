@@ -20,8 +20,10 @@ I'm [Edith Nekesa](https://edith-guru.github.io/Portfolio-Landing-Page/) , this 
 * _use git clone and paste that link after it to clone the repository_
 * _open the folder it provides_
 * _open the HTML folder inside_
-* _https://edith-guru.github.io/Portfolio-Landing-Page/_
-* 
+
+## Live Link
+ _https://edith-guru.github.io/Portfolio-Landing-Page/_
+ 
 ## Known Bugs
 _insert something!sdvsfvsf_
 
