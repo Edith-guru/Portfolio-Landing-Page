@@ -22,7 +22,7 @@ I'm [Edith Nekesa](https://edith-guru.github.io/Portfolio-Landing-Page/) , this 
 * _open the HTML folder inside_
 
 ## Live Link
- _https://edith-guru.github.io/Portfolio-Landing-Page/_
+ _https://edith-nekesa.github.io/Portfolio-Landing-Page/_
  
 ## Known Bugs
 _insert something!sdvsfvsf_
